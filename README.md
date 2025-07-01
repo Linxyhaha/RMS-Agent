@@ -6,16 +6,24 @@ This repository contains the implementation of **RMS-Agent**.
 
 Preprocessed data is stored in:
 
-code/data/preprocessed/
-├── cleaned_data_2015.csv
-├── train_2015.csv
-├── val_2015.csv
+code/data/preprocessed/ 
+├── cleaned_data_2015.csv 
+
+├── train_2015.csv 
+
+├── val_2015.csv 
+
 ├── test_2015.csv
+
 ├── train_2017.csv
+
 ├── val_2017.csv
-├── test_2017.csv
-├── train_2019.csv
-└── test_2019.csv
+
+├── test_2017.csv 
+
+├── train_2019.csv 
+
+└── test_2019.csv 
 
 ## 🚀 Training
 
