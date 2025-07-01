@@ -4,26 +4,8 @@ This repository contains the implementation of **RMS-Agent**.
 
 ## Data 
 
-Preprocessed data is stored in:
-
-code/data/preprocessed/ 
-├── cleaned_data_2015.csv 
-
-├── train_2015.csv 
-
-├── val_2015.csv 
-
-├── test_2015.csv
-
-├── train_2017.csv
-
-├── val_2017.csv
-
-├── test_2017.csv 
-
-├── train_2019.csv 
-
-└── test_2019.csv 
+Preprocessed tabular data is stored in "./data/preprocessed/" folder and the instruction data for LLM is stored in "./data/instruction_data/" folder. 
+ 
 
 ## 🚀 Training
 
