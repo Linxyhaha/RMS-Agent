@@ -2,6 +2,12 @@
 
 This repository contains the implementation of **RMS-Agent**.
 
+## Environment 
+
+- python==3.10.0
+- torch==2.6.0
+- transformers==4.49.0
+
 ## Data 
 
 Preprocessed tabular data is stored in "./data/preprocessed/" folder and the instruction data for LLM is stored in "./data/instruction_data/" folder. 
